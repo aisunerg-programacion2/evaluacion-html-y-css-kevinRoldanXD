@@ -1,0 +1,45 @@
+*{
+    margin:0%;
+    padding:0%;
+    box-sizing: border-box;
+}
+
+.imagen{
+    margin-top: 33px;
+    width: 300px;
+    border: 2px solid #808080;
+}
+
+.contenedorPriario{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 44px;
+    width: 100%;
+    text-align: center;
+}
+.contenedorSecundario{
+    width: 50%;
+    background: rgba(63, 155, 230, 0.678);
+}
+
+.nombre{
+    font-size: 33px;
+    font-weight: 300;
+}
+
+.inforacion-personal{
+    margin-bottom: 22px;
+}
+
+.EDUCACION{
+    margin-bottom: 22px;
+}
+
+.experiencia-laboral{
+    margin-bottom: 22px;
+}
+
+.redes-sociales{
+    margin-bottom: 22px;
+}
